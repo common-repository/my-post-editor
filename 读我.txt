@@ -1,0 +1,17 @@
+=== Plugin Name ===
+Contributors: sl514
+Donate link: http://www.ij2ee.com/
+Tags: post
+Requires at least: 2.0.2
+Tested up to: 2.1
+Stable tag: 4.3
+
+
+== Description ==
+
+这个插件可以在文章的前后追加用户指定的内容,支持HTML,大家可以放诸如谷歌广告之类的内容。
+
+== Installation ==
+1. 上传`my-post-editor.php` 到 `/wp-content/plugins/my-post-editor` 目录没有my-post-editor目录请创建
+2. 在插件面板里启用插件
+3. 在控制台的设置里 my-post-editor 里设置你的内容

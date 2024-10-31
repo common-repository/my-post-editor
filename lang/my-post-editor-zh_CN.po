@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: my-post-editor v1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/extend/plugins/my-post-editor\n"
+"POT-Creation-Date: 2011-04-30 17:28+0300\n"
+"PO-Revision-Date: 2012-04-30 11:36+0800\n"
+"Last-Translator: jeson <ij2ee@139.com>\n"
+"Language-Team: 三少 <ij2ee@139.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ my-post-editor
+#: my-post-editor.php:9
+msgid "The plugin's role is to append user-specified content before or after an article,and support html. For instance, you can put google ads,website traffic statistics code, etc."
+msgstr "这个插件可以在文章的前后追加用户指定的内容,支持HTML,大家可以放诸如谷歌广告之类的内容。"
+
+# @ my-post-editor
+#: my-post-editor.php:40
+msgid "Content before your post"
+msgstr "放在文章前面的内容。"
+
+# @ my-post-editor
+#: my-post-editor.php:49
+msgid "Content after your post"
+msgstr "追加在文章后面的内容。"
+
+# @ my-post-editor
+#: my-post-editor.php:35
+msgid "add some content before or after your post content. you can use the delete button to delte this option"
+msgstr "追加相关内容在你的文章首尾,你可以点击‘删除’按钮删除你的设置。"
+
+# @ my-post-editor
+#: my-post-editor.php:60
+msgid "update"
+msgstr "修改设置"
+
+# @ my-post-editor
+#: my-post-editor.php:61
+msgid "delete"
+msgstr "删除设置"
+
